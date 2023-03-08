@@ -11,5 +11,5 @@ int main()
     cout << "The Message: " << int(c1) << " " << int(c2)<< " " << int(c3)<< " " <<int(c4)<< " " <<int(c5);
 
     system("pause>0"); 
-}
+}   //I wish I knew earlier that I can commit this shit on studio
 
